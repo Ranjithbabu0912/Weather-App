@@ -1,8 +1,61 @@
-# React + Vite
+# Weather App — v1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Weather App! I’m Ranjithbabu, a front-end developer based in Tamil Nadu, and I’m thrilled to introduce you to my project. Weather Appe is a dynamic web application designed to provide users with accurate and up-to-date Weather information . This project integrates a sleek, user-friendly interface with robust backend functionality to deliver an engaging Weather experience.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Client: React.js, Javascript, HTML, CSS
+
+Hosting: Vercel
+
+## Screenshots 
+LANDING PAGE-
+![Landing Page](<Screenshot (25).png>)
+
+Random Search(LONDON)-
+![Random Search](<Screenshot (26).png>)
+
+
+
+
+
+
+[View Live Demo](https://weather-i3kkb35y7-ranjithbabu0912s-projects.vercel.app/)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Ranjithbabu0912/weather-app.git
+```
+
+Go to the project directory
+
+Install dependencies
+
+```bash
+  cd weather
+```
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Contributing & Usage
+Feel free to use or adapt the front-end code for your own Weather -related projects. I encourage you to customize the theme and components to fit your needs. The content of this application is designed for showcases various Weather -related features, reflecting my skills and capabilities.
+
+If you have any questions or need assistance, please don’t hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/ranjithbabu0912/), [GitHub](https://github.com/Ranjithbabu0912). I’m always here to help!
+
+## License
+
+[MIT](https://github.com/Ranjithbabu0912/weather-app/blob/main/LICENSE)
+
