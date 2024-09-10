@@ -1,4 +1,4 @@
-# Weather App — v1
+# Weather App
 
 Welcome to Weather App! I’m Ranjithbabu, a front-end developer based in Tamil Nadu, and I’m thrilled to introduce you to my project. Weather Appe is a dynamic web application designed to provide users with accurate and up-to-date Weather information . This project integrates a sleek, user-friendly interface with robust backend functionality to deliver an engaging Weather experience.
 
