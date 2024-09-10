@@ -9,18 +9,18 @@ Client: React.js, Javascript, HTML, CSS
 Hosting: Vercel
 
 ## Screenshots 
+
 LANDING PAGE-
-![Landing Page](<Screenshot (25).png>)
+![Landing Page](https://github.com/user-attachments/assets/1d027484-fcea-4f32-969b-1c4a9edd2385)
 
 Random Search(LONDON)-
-![Random Search](<Screenshot (26).png>)
-
-
-
+![Random Search](https://github.com/user-attachments/assets/4a4dc9ab-c6d6-45b4-8457-adaa936b38f1)
 
 
 
 [View Live Demo](https://weather-i3kkb35y7-ranjithbabu0912s-projects.vercel.app/)
+
+
 
 
 ## Run Locally
